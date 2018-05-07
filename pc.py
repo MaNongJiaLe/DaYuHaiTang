@@ -1,11 +1,5 @@
 
-
-
-
-a=1
-b=1
-c=a+b
-print(c)
+print('nice' in 'nice to meet you')
 
 
 
